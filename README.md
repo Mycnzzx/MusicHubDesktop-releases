@@ -1,2 +1,2 @@
-# MusicHubDesktop-releases
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f476e954-00b5-4ec9-b908-492196a07359" /># MusicHubDesktop-releases
 Music Hub Desktop é um app Windows com visual web para baixar músicas, vídeos, playlists e mixes do YouTube, Spotify e SoundCloud, com navegador YouTube integrado, barra de progresso, cancelamento e motor interno com yt-dlp, spotDL e FFmpeg.
